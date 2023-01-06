@@ -1,13 +1,13 @@
 # 💫About Me :
 A Fresher - Entry Level - Starter in Data Analyst
 
-🌱 I’m currently learning SQL, Python, Power BI
+- 🌱 I’m currently learning SQL, Python, Power BI
 
-👨‍💻 All of my projects are available at:
+- 👨‍💻 All of my projects are available at:
 
-💬 Ask me about SQL, Python, Power BI
+- 💬 Ask me about SQL, Python, Power BI
 
-📫 How to reach me hoanggiang.mkit@gmail.com
+- 📫 How to reach me hoanggiang.mkit@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/P.7.6.0.1.1.9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/hoanggiangmkit/) 
