@@ -15,6 +15,7 @@ A Fresher - Entry Level - Starter in Data Analyst
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hoanggianggg&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoanggianggg&theme=city_light&hide_border=false)<br/>
