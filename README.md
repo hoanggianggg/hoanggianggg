@@ -1,22 +1,44 @@
 # 💫About Me :
-A Fresher - Entry Level - Starter in Data Analyst
 
-- 🌱 I’m currently learning SQL, Python, Power BI
+<img align="left" width="400" src="https://t4.ftcdn.net/jpg/02/01/66/11/360_F_201661115_6tqRkq7TERGA3vpHjxVTGuM7lVxQdbNa.jpg">
+<h1 align="center">Hi 👋, I'm Hoang Giang</h1>
+<h3 align="center">A Fresher - Entry Level - Starter in Data Analyst</h3>
+<p align="center">
+    <h4 align="left">- 🌱 I’m currently learning SQL, Python, Power BI</h4>
+    <h4 align="left">- 👨‍💻 All of my projects are available at:</h4>
+    <h4 align="left">- 📫 How to reach me hoanggiang.mkit@gmail.com</h4>
+</p>
 
-- 👨‍💻 All of my projects are available at:
+# 💻How to reach me:
 
-- 💬 Ask me about SQL, Python, Power BI
+<p align="center">
+  <a href="https://www.linkedin.com/in/hoang-giangggg/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/G.12.1.16.10/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/hoanggianggg" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.pinterest.com/hoanggiangmkit/" alt="Kaggle" target="_blank" >
+    <img src="https://img.icons8.com/color/48/null/pinterest--v1.png"/>
+  </a>
+  <a href="mailto:hoanggiang.mkit@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
-- 📫 How to reach me hoanggiang.mkit@gmail.com
+# 💻Skills:
 
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/P.7.6.0.1.1.9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-giangggg/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/hoanggiangmkit/) 
-
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/null/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/null/wordpress.png"/>
+  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 
 # 📊GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=hoanggianggg&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoanggianggg&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanggianggg&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
